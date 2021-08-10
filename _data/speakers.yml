@@ -1,5 +1,17 @@
 - Talk: 
   Speakers:
+    - Name: Nikolaos Alexiou
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: Malcom Heath
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Stop the looters: a method to detect digital skimming attacks
+  TalkURL:
+- Talk: 
+  Speakers:
     - Name: Gary Robinson
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
