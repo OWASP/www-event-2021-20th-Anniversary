@@ -1,5 +1,17 @@
 - Talk: 
   Speakers:
+    - Name: Guest Speaker Troy Hunt
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: Malcom Heath
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: TBD
+  TalkURL:
+- Talk: 
+  Speakers:
     - Name: Guest Speaker Wendy Nather 
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
