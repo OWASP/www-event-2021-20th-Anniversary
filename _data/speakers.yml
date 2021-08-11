@@ -1,5 +1,17 @@
 - Talk: 
   Speakers:
+    - Name: Caroline Wong
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_Caroline Wong.jpeg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Security Metrics: Protecting Our Digital Assets of the Future
+  TalkURL:
+- Talk: 
+  Speakers:
     - Name: Spencer Pearlman
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
@@ -326,7 +338,7 @@
   Speakers:
     - Name: Barak Schoster
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Barak Schoster.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -494,11 +506,11 @@
   Speakers:
     - Name: Benjamin Fabre
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Benjamin Fabre.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Antoine Vastel
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_Antoine Vastel.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Bot or human? Detecting malicious bots with machine learning in 2021"
   TalkURL:
