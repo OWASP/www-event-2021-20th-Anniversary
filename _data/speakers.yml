@@ -1,5 +1,17 @@
 - Talk: 
   Speakers:
+    - Name: Gian-Luca	Frei
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_Gian-Luca Frei.jpeg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "OWASP Application Gateway: What is it and how can you use it to secure your webapp?"
+  TalkURL:
+- Talk: 
+  Speakers:
     - Name: Caroline Wong
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Caroline Wong.jpeg
@@ -62,7 +74,7 @@
   Speakers:
     - Name: Gary Robinson
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Gary Robinson.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: Malcom Heath
      # Email: test.test@owasp.org
@@ -470,7 +482,7 @@
   Speakers:
     - Name: Catalin Curelaru
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Catalin-Curelaru.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
      # Email: test.test@owasp.org
@@ -542,7 +554,7 @@
   Speakers:
     - Name: Eitan Worcel
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images20th_Web_Speakers_Link_Eitan Worcel.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: Speaker Two
       #Email: test.test@owasp.org
