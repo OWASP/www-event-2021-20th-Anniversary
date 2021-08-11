@@ -218,7 +218,7 @@
   Speakers:
     - Name: Aaron Ansari
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Aaron Ansari.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -506,7 +506,7 @@
   Speakers:
     - Name: Dr. Abhilasha Vyas
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Abhilasha-Vyas.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
    # - Name: Speaker Two
       #Email: test.test@owasp.org
@@ -518,7 +518,7 @@
   Speakers:
     - Name: Aharon Abadi
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Aharon-Abadi.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
    # - Name: Speaker Two
       #Email: test.test@owasp.org
@@ -554,7 +554,7 @@
   Speakers:
     - Name: Alexander Barabanov
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg 
+      Image: /assets/images/20th_Web_Speakers_Link_Alexander-Barabanov.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: Speaker Two
       #Email: test.test@owasp.org
