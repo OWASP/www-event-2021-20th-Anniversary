@@ -30,7 +30,7 @@
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: Malcom Heath
      # Email: test.test@owasp.org
-      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #Image: /assets/images/20th_Web_Speakers_Link_Malcom Heath.jpeg 
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Common NGINX Misconfigurations That Leave Your Web Server Open To Attack
   TalkURL:
@@ -98,7 +98,7 @@
   Speakers:
     - Name: Raymond Pompon
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Raymond-Pompon.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Malcom Heath
       Email: test.test@owasp.org
@@ -110,7 +110,7 @@
   Speakers:
     - Name: John Dickson
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_John Dickson.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -134,7 +134,7 @@
   Speakers:
     - Name: Marcin Szydlowski
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Marcin-Szydlowski.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -158,7 +158,7 @@
   Speakers:
     - Name: Jan Seredynski
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Jan Seredynski.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -182,7 +182,7 @@
   Speakers:
     - Name: Grant Ongers
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Grant Ongers.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -194,7 +194,7 @@
   Speakers:
     - Name: Serge Borso
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_SergeBorso.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -254,7 +254,7 @@
   Speakers:
     - Name: Riotaro OKADA
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Riotaro Okada.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -290,7 +290,7 @@
   Speakers:
     - Name: Matt Tesauro
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Matt Tesauro.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -302,7 +302,7 @@
   Speakers:
     - Name: Isabelle Mauny
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Isabelle Mauny.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -314,7 +314,7 @@
   Speakers:
     - Name: Or Katz
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Or Katz.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -338,7 +338,7 @@
   Speakers:
     - Name: Magno Logan
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Magno Logan.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -386,7 +386,7 @@
   Speakers:
     - Name: Himanshu Dwivedi
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Himanshu-Dwivedi.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -446,7 +446,7 @@
   Speakers:
     - Name: Scott Gerlach
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Scott Gerlach.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -470,7 +470,7 @@
   Speakers:
     - Name: Miguel Calles
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Miguel Calles.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
      # Email: test.test@owasp.org
@@ -494,7 +494,7 @@
   Speakers:
     - Name: Jason Kent
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_Jason Kent.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
      # Email: test.test@owasp.org
@@ -506,7 +506,7 @@
   Speakers:
     - Name: Phu Phung
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_PhuHPhung.jpg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
      # Email: test.test@owasp.org
@@ -556,10 +556,10 @@
       Email: test.test@owasp.org
       Image: /assets/images20th_Web_Speakers_Link_Eitan Worcel.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
-    #- Name: Speaker Two
-      #Email: test.test@owasp.org
-      #Image: /assets/images/OWASP_20th_Anniversary.svg      
-      #URL:
+    - Name: Ran Klein
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_RanKlein.jpeg   
+      URL:
   Title: Automated Finding Correlation where do SAST, DAST and IAST overlap 
   TalkURL:
 - Talk:
