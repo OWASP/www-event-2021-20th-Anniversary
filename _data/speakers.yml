@@ -242,7 +242,7 @@
   Speakers:
     - Name: Aaron Ansari
       Email: test.test@owasp.org
-      Image: /assets/images/20th_Web_Speakers_Link_Aaron Ansari.jpeg
+      Image: /assets/images/20th_Web_Speakers_Link_AaronAnsari.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -522,7 +522,7 @@
       URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Antoine Vastel
       Email: test.test@owasp.org
-      Image: /assets/images/20th_Web_Speakers_Link_Antoine Vastel.jpeg
+      Image: /assets/images/20th_Web_Speakers_Link_AntoineVastel.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Bot or human? Detecting malicious bots with machine learning in 2021"
   TalkURL:
