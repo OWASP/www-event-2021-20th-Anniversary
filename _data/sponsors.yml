@@ -133,4 +133,9 @@
   url: https://www.rapid7.com/
   backgroundSize: 125px
   type: Supporting Sponsor 
+- logo: /assets/images/sponsors/guardsquare_logo.png
+  name: Guardsquare
+  url: http://guardsquare.com/
+  backgroundSize: 125px
+  type: Supporting Sponsor 
 
