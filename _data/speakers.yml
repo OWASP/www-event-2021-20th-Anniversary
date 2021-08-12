@@ -1,5 +1,17 @@
 - Talk: 
   Speakers:
+    - Name: Spencer Pearlman
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_SpencerPearlman.jpeg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Hacker’s Approach to Finding Bugs in OSS"
+  TalkURL:
+- Talk: 
+  Speakers:
     - Name: Juan Pablo Quiñe Paz
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
@@ -50,7 +62,7 @@
   Speakers:
     - Name: Spencer Pearlman
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_SpencerPearlman.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
      # Email: test.test@owasp.org
@@ -62,7 +74,7 @@
   Speakers:
     - Name: Guest Speaker Troy Hunt
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_TroyHunt.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
      # Email: test.test@owasp.org
@@ -74,7 +86,7 @@
   Speakers:
     - Name: Guest Speaker Wendy Nather 
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_WendyNather.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
      # Email: test.test@owasp.org
@@ -86,7 +98,7 @@
   Speakers:
     - Name: Nikolaos Alexiou
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_NikolaosAlexiou.jpeg
       URL: https://owasp20thanniversaryeMalcom Heathvent20.sched.com/
     #- Name: 
      # Email: test.test@owasp.org
@@ -350,7 +362,7 @@
   Speakers:
     - Name: Erez Yalon
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_ErezYalon.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
