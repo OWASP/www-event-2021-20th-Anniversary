@@ -1,5 +1,17 @@
 - Talk: 
   Speakers:
+    - Name: Juan Pablo Quiñe Paz
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: Using binary search algorithms for blind sql injection
+  TalkURL:
+- Talk: 
+  Speakers:
     - Name: Guest Speaker Dan Cornell
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
