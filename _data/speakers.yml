@@ -158,7 +158,7 @@
   Speakers:
     - Name: Ovidiu Cical
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_OvidiuCical.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -266,7 +266,7 @@
   Speakers:
     - Name: Kim Carter
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_KimCarter.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -302,7 +302,7 @@
   Speakers:
     - Name: Florian Stahl
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_FlorianStahl.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name:
       #Email: test.test@owasp.org
@@ -494,7 +494,7 @@
   Speakers:
     - Name: Brian Reed
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_BrianReed.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Brooke Davis
       Email: test.test@owasp.org
