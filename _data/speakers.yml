@@ -472,10 +472,10 @@
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Aharon-Abadi.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
-    #- Name:
-      #Email: test.test@owasp.org
-      #Image: /assets/images/OWASP_20th_Anniversary.svg      
-      #URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Rami Elron
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Effective Usage Analysis: The Shortest Path Between a Developer and Accelerated Product Releases"
   TalkURL:
 - Talk:
