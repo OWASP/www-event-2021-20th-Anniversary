@@ -48,6 +48,11 @@
   url: https://www.microfocus.com/en-us/home
   backgroundSize: 125px
   type: Premier Sponsor
+- logo: /assets/images/sponsors/HCLLogo.png
+  name: HCL AppScan
+  url: 	https://www.hcltechsw.com/appscan
+  backgroundSize: 125px
+  type: Premier Sponsor
 - logo: https://owasp.org//assets/images/corp-member-logo/hdivSecurityLogo.png 
   name: Hdiv Security
   url: https://hdivsecurity.com/
