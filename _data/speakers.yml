@@ -20,18 +20,6 @@
   TalkURL:
 - Talk: 
   Speakers:
-    - Name: John Melton
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
-    #- Name: 
-      #Email: test.test@owasp.org
-      #Image: /assets/images/OWASP_20th_Anniversary.svg      
-      #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: OWASP AppSensor Flagship Project Leader
-  TalkURL:
-- Talk: 
-  Speakers:
     - Name: Patrick Dwyer
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg      
