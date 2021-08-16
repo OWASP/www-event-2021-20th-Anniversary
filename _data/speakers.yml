@@ -1,5 +1,141 @@
 - Talk: 
   Speakers:
+    - Name: Andrew van der Stock
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Brian Glas
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+      - Name: Neil Smithline
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP Top 10 Flagship Project Leaders
+  TalkURL:
+- Talk: 
+  Speakers:
+    - Name: Christian Falini
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Walter Hop
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP ModSecurity Core Rule Set Flagship Project Leaders
+  TalkURL:
+- Talk: 
+  Speakers:
+    - Name: Jim Manico
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Jakub Mackowski
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP Cheat Sheet Series Flagship Project Leaders
+  TalkURL:
+- Talk: 
+  Speakers:
+    - Name: Mark Denihan
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Sean Duggan
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP Security Shephard Flagship Project Leaders
+  TalkURL:
+- Talk: 
+  Speakers:
+    - Name: Elie Saad 
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP Web Security Testing Guide Flagship Project Leader
+  TalkURL:
+- Talk: 
+  Speakers:
+    - Name: Glenn ten Cate
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Riccardo ten Cate
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP Security Knowledge Framework Flagship Project Leaders
+  TalkURL:
+- Talk: 
+  Speakers:
+    - Name: Seba Deleersnyder
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Bart De Win
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP Software Assurance Maturity Model (SAMM) Flagship Project Leaders
+  TalkURL:
+- Talk: 
+  Speakers:
+    - Name: Carlos Holguera
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Sven Schleier
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP Mobile Security Testing Guide Flagship Project Leader
+  TalkURL:
+- Talk: 
+  Speakers:
+    - Name: Bjoern Kimminich
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP Juice Shop Flagship Project Leader
+  TalkURL:
+- Talk: 
+  Speakers:
+    - Name: Steve Springett
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP Dependency Track Flagship Project Leader
+  TalkURL:
+- Talk: 
+  Speakers:
+    - Name: Simon Bennetts 
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+     # Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP ZAP Flagship Project Leader
+  TalkURL:
+- Talk: 
+  Speakers:
     - Name: Spencer Pearlman
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SpencerPearlman.jpeg
