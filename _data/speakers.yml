@@ -1,5 +1,17 @@
 - Talk: 
   Speakers:
+    - Name: Guest Speaker Chenxi Wang
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Security As Code - The New Model Of Achieving Security At Scale"
+  TalkURL:
+- Talk: 
+  Speakers:
     - Name: Kavisha Sheth
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg      
