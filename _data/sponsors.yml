@@ -143,4 +143,10 @@
   url: http://guardsquare.com/
   backgroundSize: 125px
   type: Supporting Sponsor 
+- logo: /assets/images/sponsors/neuralegion_logo.png
+  name: NeuraLegion
+  url: https://www.neuralegion.com/
+  backgroundSize: 125px
+  type: Premier Sponsor 
+   
 
