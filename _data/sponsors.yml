@@ -148,5 +148,9 @@
   url: https://www.neuralegion.com/
   backgroundSize: 125px
   type: Premier Sponsor 
-   
+- logo: /assets/images/sponsors/security_initative_logo.png
+  name: Security Initiative 
+  url: https://security-initiative.co.jp/
+  backgroundSize: 125px
+  type: Supporting Sponsor 
 
