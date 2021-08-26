@@ -1,5 +1,17 @@
 - Talk: 
   Speakers:
+    - Name: Nicole Dove
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: "Decoded: Leverage Cybersecurity as a Business Enabler"
+  TalkURL:
+- Talk: 
+  Speakers:
     - Name: Larry Maccherone
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg      
