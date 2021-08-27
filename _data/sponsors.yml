@@ -153,4 +153,10 @@
   url: https://security-initiative.co.jp/
   backgroundSize: 125px
   type: Supporting Sponsor 
+- logo: /assets/images/sponsors/detectify_logo.png
+  name: Detectify
+  url: http://www.detectify.com/
+  backgroundSize: 125px
+  type: Premier Sponsor 
+  
 
