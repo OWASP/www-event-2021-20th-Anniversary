@@ -6,7 +6,8 @@ permalink: /supporters/
 
 ---
 <section class="member-list">
-{% for supporter in site.data.supporters %}
+{% assign supporters = site.data.supporters | sort: "logo" | reverse %}
+{% for supporter in supporters  %}
 {%- if supporter.logo -%}
 <div style="float:left;"><a href="{{supporter.url}}" class="supporter-logo" style="filter:none;"><img src="{{supporter.logo}}"/></a></div>
 {% else %}
