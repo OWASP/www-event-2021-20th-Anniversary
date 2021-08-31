@@ -152,6 +152,10 @@
   name: Detectify
   url: http://www.detectify.com/
   backgroundSize: 125px
-  type: Premier Sponsor 
-  
+  type: Premier Sponsor
+- logo: /assets/images/sponsors/black_belt_security_logo.png
+  name: Black Belt Security 
+  url: https://blackbeltsec.com/
+  backgroundSize: 125px
+  type: Supporting Sponsor 
 
