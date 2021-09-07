@@ -84,7 +84,6 @@
   TalkURL:
 - Talk: 
   Speakers:
-
     - Name: Andrew van der Stock
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_AndrewVanDerStock.jpeg    
@@ -147,7 +146,7 @@
   Speakers:
     - Name: Andrew van der Stock
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_AndrewVanDerStock.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Brian Glas
       Email: test.test@owasp.org
