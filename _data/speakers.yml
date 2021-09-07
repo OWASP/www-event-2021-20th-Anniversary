@@ -60,22 +60,14 @@
   TalkURL:
 - Talk: 
   Speakers:
-    - Name: Ory Segal
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
-    - Name: Elad Shuster
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
-    - Name: Dean Agron
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Ron Vider
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg      
       URL: https://owasp20thanniversaryevent20.sched.com/
+      #- Name: 
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Cloud-Native Application Security Top 10 Flagship Project Leaders
   TalkURL:
 - Talk: 
