@@ -12,9 +12,9 @@
   TalkURL:
 - Talk: 
   Speakers:
-    - Name: Larry Maccherone
+    - Name: Guest Speaker Larry Maccherone
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_LarryMaccherone.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
       #Email: test.test@owasp.org
@@ -26,7 +26,7 @@
   Speakers:
     - Name: Debasis Mohanty
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_DebasisMohanty.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
       #Email: test.test@owasp.org
@@ -38,7 +38,7 @@
   Speakers:
     - Name: Guest Speaker Chenxi Wang
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_ChenxiWang.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
       #Email: test.test@owasp.org
@@ -250,7 +250,7 @@
   Speakers:
     - Name: Simon Bennetts 
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_SimonBennetts.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
      # Email: test.test@owasp.org
