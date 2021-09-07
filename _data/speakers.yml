@@ -1,5 +1,17 @@
 - Talk: 
   Speakers:
+    - Name: Matt Tesauro
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_Matt Tesauro.jpeg  
+      URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Aaron Weaver
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
+  Title: OWASP Defectdojo Flagship Project Leaders
+  TalkURL:
+- Talk: 
+  Speakers:
     - Name: Nicole Dove
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_NicoleDove.jpeg   
