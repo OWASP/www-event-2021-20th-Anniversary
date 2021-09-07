@@ -215,11 +215,11 @@
   Speakers:
     - Name: Carlos Holguera
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_CarlosHolguera.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Sven Schleier
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_SvenSchleier.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Mobile Security Testing Guide Flagship Project Leaders
   TalkURL:
