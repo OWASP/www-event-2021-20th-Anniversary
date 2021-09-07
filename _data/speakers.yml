@@ -84,23 +84,12 @@
   TalkURL:
 - Talk: 
   Speakers:
-    - Name: Daniel Cuthbert
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+
     - Name: Andrew van der Stock
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg      
       URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Jim Manico
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
-    - Name: Mark Burnett
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
-    - Name: Josh Grossman
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg      
       URL: https://owasp20thanniversaryevent20.sched.com/
@@ -112,14 +101,10 @@
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg      
       URL: https://owasp20thanniversaryevent20.sched.com/
-    - Name: Viyat Bhalodia
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
-    - Name: Bharadwaj Machiraju
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+    #- Name: 
+      #Email: test.test@owasp.org
+      #Image: /assets/images/OWASP_20th_Anniversary.svg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP OWTF Flagship Project Leaders
   TalkURL:
 - Talk: 
@@ -192,19 +177,7 @@
   TalkURL:
 - Talk: 
   Speakers:
-    - Name: Mark Denihan
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
-    - Name: Sean Duggan
-      Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: OWASP Security Shepherd Flagship Project Leaders
-  TalkURL:
-- Talk: 
-  Speakers:
-    - Name: Elie Saad 
+    - Name: Matteo Meucci
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg      
       URL: https://owasp20thanniversaryevent20.sched.com/
