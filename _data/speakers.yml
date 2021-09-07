@@ -203,11 +203,11 @@
   Speakers:
     - Name: Seba Deleersnyder
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_SebaDeleersnyder.jpeg     
       URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Bart De Win
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_BartDeWin.jpeg     
       URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Software Assurance Maturity Model (SAMM) Flagship Project Leaders
   TalkURL:
