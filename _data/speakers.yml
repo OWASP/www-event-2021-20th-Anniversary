@@ -62,7 +62,7 @@
   Speakers:
     - Name: Ron Vider
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_RonVider.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/
       #- Name: 
       #Email: test.test@owasp.org
@@ -74,11 +74,11 @@
   Speakers:
     - Name: Patrick Dwyer
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_PatrickDwyer.jpeg   
       URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Steve Springett
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      Image: /assets/images/20th_Web_Speakers_Link_SteveSpringett.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Cyclone DX Flagship Project Leaders
   TalkURL:
