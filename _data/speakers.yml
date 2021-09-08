@@ -272,18 +272,6 @@
   TalkURL:
 - Talk: 
   Speakers:
-    - Name: Spencer Pearlman
-      Email: test.test@owasp.org
-      Image: /assets/images/20th_Web_Speakers_Link_SpencerPearlman.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
-    #- Name: 
-     # Email: test.test@owasp.org
-      #Image: /assets/images/OWASP_20th_Anniversary.svg      
-      #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: "Hacker’s Approach to Finding Bugs in OSS"
-  TalkURL:
-- Talk: 
-  Speakers:
     - Name: Juan Pablo Quiñe Paz
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_JuanPabloQuiñePaz.jpeg
