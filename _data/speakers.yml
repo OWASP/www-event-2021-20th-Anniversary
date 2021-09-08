@@ -468,10 +468,10 @@
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Rob_Der_Veer.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/
-    #- Name:
-      #Email: test.test@owasp.org
-      #Image: /assets/images/OWASP_20th_Anniversary.svg      
-      #URL: https://owasp20thanniversaryevent20.sched.com/
+    - Name: Spyros Gasteratos
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg      
+      URL: https://owasp20thanniversaryevent20.sched.com/
   Title: The future is simple
   TalkURL:
 - Talk:
