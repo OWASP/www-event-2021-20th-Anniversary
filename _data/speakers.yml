@@ -359,7 +359,7 @@
     - Name: Nikolaos Alexiou
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_NikolaosAlexiou.jpeg
-      URL: https://owasp20thanniversaryeMalcom Heathvent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
@@ -398,7 +398,7 @@
       URL: https://owasp20thanniversaryevent20.sched.com/
     - Name: Malcom Heath
       Email: test.test@owasp.org
-      Image: /assets/images/20th_Web_Speakers_Link_Malcom Heath.jpeg   
+      Image: /assets/images/20th_Web_Speakers_Link_MalcolmHeath.jpeg   
       URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Looking at 4 years of web honeypot attacks: tactics, techniques and trends"
   TalkURL:
