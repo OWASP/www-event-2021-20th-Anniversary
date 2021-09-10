@@ -3,73 +3,73 @@
     - Name: Guest Speaker Kate Hartmann
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_KateHartmann.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/kate_hartmann.22xkxq05
     #- Name: 
       #Email: test.test@owasp.org
       #Image:   
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: TBD
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/mubN/tbd
 - Talk: 
   Speakers:
     - Name: Matt Tesauro
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Matt Tesauro.jpeg  
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/matt.tesauro2
     - Name: Aaron Weaver
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_AaronWeaver.jpeg  
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/aaron_weaver.22ua9m6s
   Title: OWASP DefectDojo Flagship Project Leaders
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/m1wH/owasp-defectdojo-flagship-project
 - Talk: 
   Speakers:
     - Name: Guest Speaker Nicole Dove
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_NicoleDove.jpeg   
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/nicole_dove.22ujx863
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Decoded: Leverage Cybersecurity as a Business Enabler"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/m5Xv/decoded-leverage-cybersecurity-as-a-business-enabler
 - Talk: 
   Speakers:
     - Name: Guest Speaker Larry Maccherone
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_LarryMaccherone.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/larry_maccherone.22uke7zu
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "The future of Dev[Sec]Ops transformation"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/m5hA/the-future-of-devsecops-transformation
 - Talk: 
   Speakers:
     - Name: Debasis Mohanty
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_DebasisMohanty.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/debasis_mohanty.22ujut5z
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Software Security Engineering (Learnings from the past to fix the future)"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/m5Wo/software-security-engineering-learnings-from-the-past-to-fix-the-future
 - Talk: 
   Speakers:
-    - Name: Guest Speaker Chenxi Wang
+    - Name: Guest Speaker Dr. Chenxi Wang
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_ChenxiWang.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/dr_chenxi_wang.22ufjzih
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Security As Code - The New Model Of Achieving Security At Scale"
-  TalkURL: 
+  TalkURL: https://sched.co/m4Q4
 - Talk: 
   Speakers:
     - Name: Kavisha Sheth
@@ -87,621 +87,621 @@
     - Name: Ron Vider
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_RonVider.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/ron_vider.22uaaafp
       #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Cloud-Native Application Security Top 10 Flagship Project Leader
-  TalkURL:
+  TalkURL: https://sched.co/m1wf
 - Talk: 
   Speakers:
     - Name: Patrick Dwyer
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_PatrickDwyer.jpeg   
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/patrick_dwyer.22uaa1y7
     - Name: Steve Springett
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SteveSpringett.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/steve_springett.22ua1fwp
   Title: OWASP Cyclone DX Flagship Project Leaders
-  TalkURL:
+  TalkURL: https://sched.co/m1wX
 - Talk: 
   Speakers:
     - Name: Andrew van der Stock
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Andrew_van_derStock.jpeg    
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/andrew_van_der_stock.22ua9xcw
     - Name: Jim Manico
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_JimManico.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/jim_manico.22ua9y2y
   Title: OWASP Application Security Verification Standard (ASVS) Flagship Project Leaders
-  TalkURL:
+  TalkURL: https://sched.co/m1wT
 - Talk: 
   Speakers:
     - Name: Abraham Aranguren
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_AbrahamAranguren.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/abraham_aranguren.22ua9sa4
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP OWTF Flagship Project Leader
-  TalkURL:
+  TalkURL: https://sched.co/m1wQ
 - Talk: 
   Speakers:
     - Name: Jeremy Long
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_JeremyLong.jpeg     
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/jeremy_long.7hffdfz
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Dependency-Check Flagship Project Leader
-  TalkURL:
+  TalkURL: https://sched.co/m1wL
 - Talk: 
   Speakers:
     - Name: Azzeddine Ramrami
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_AzzeddineRamrami.jpeg     
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/azzeddine_ramrami.7hffcnu
     - Name: Albert-Tóth István
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_IstvanAlbert-Toth.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/istvan_albert_toth.22ua9jj3
   Title: OWASP CSRFGuard Flagship Project Leaders
-  TalkURL:
+  TalkURL: https://sched.co/m1wE
 - Talk: 
   Speakers:
     - Name: Jeff Foley
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_JeffFoley.jpeg    
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/jeff_foley.22ua9glj
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Amass Flagship Project Leader
-  TalkURL:
+  TalkURL: https://sched.co/m1w2
 - Talk: 
   Speakers:
     - Name: Andrew van der Stock
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Andrew_van_derStock.jpeg     
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/andrew_van_der_stock.22ua9xcw
     - Name: Brian Glas
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_BrianGlas.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/brian_glas.22ua9cn0
   Title: OWASP Top 10 Flagship Project Leaders
-  TalkURL:
+  TalkURL: https://sched.co/myc2
 - Talk: 
   Speakers:
     - Name: Christian Folini
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_ChristianFolini.jpeg    
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/christian_falini.22ua97o4
   Title: OWASP ModSecurity Core Rule Set Flagship Project Leader
-  TalkURL:
+  TalkURL: https://sched.co/m1vo
 - Talk: 
   Speakers:
     - Name: Jim Manico
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_JimManico.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/jim_manico.22ua9y2y
     #- Name: Jakub Mackowski
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Cheat Sheet Series Flagship Project Leader
-  TalkURL:
+  TalkURL: https://sched.co/m1vl
 - Talk: 
   Speakers:
     - Name: Matteo Meucci
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_MatteoMeucci.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/matteo_meucci.22uab1cj
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Web Security Testing Guide Flagship Project Leader
-  TalkURL:
+  TalkURL: https://sched.co/m1wy
 - Talk: 
   Speakers:
     - Name: Glenn ten Cate
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Glenn_ten_Cate.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/glenn_ten_cate.22ua7by8
     - Name: Riccardo ten Cate
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Riccardo_ten_Cate.jpeg     
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/riccardo_ten_cate.kseu1lqk
   Title: OWASP Security Knowledge Framework Flagship Project Leaders
-  TalkURL:
+  TalkURL: https://sched.co/m1ut
 - Talk: 
   Speakers:
     - Name: Seba Deleersnyder
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SebaDeleersnyder.jpeg     
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/seba_deleersnyder.22ua78e0
     - Name: Bart De Win
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_BartDeWin.jpeg     
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/bart_de_win.22ua7a0a
   Title: OWASP Software Assurance Maturity Model (SAMM) Flagship Project Leaders
-  TalkURL:
+  TalkURL: https://sched.co/m1uU
 - Talk: 
   Speakers:
     - Name: Carlos Holguera
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_CarlosHolguera.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/carlos_holguera.22ua71un
     - Name: Sven Schleier
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SvenSchleier.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/sven_schleier.22ua732i
   Title: OWASP Mobile Security Testing Guide Flagship Project Leaders
-  TalkURL:
+  TalkURL: https://sched.co/m1uP
 - Talk: 
   Speakers:
     - Name: Björn Kimminich
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Björn-Kimminich.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/bjoern_kimminich.22ua6zn0
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Juice Shop Flagship Project Leader
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/m1uL/owasp-juice-shop-flagship-project
 - Talk: 
   Speakers:
     - Name: Steve Springett
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SteveSpringett.jpeg     
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/steve_springett.22ua1fwp
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Dependency Track Flagship Project Leader
-  TalkURL:
+  TalkURL: https://sched.co/m1tL
 - Talk: 
   Speakers:
     - Name: Simon Bennetts 
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SimonBennetts.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/simon_bennetts.7hfehfl
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP ZAP Flagship Project Leader
-  TalkURL:
+  TalkURL: https://sched.co/m1tC
 - Talk: 
   Speakers:
     - Name: Juan Pablo Quiñe Paz
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_JuanPabloQuiñePaz.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/juan.quine
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Using binary search algorithms for blind sql injection
-  TalkURL:
+  TalkURL: https://sched.co/lcVq
 - Talk: 
   Speakers:
     - Name: Guest Speaker Dan Cornell
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_DanCornell.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/dan_cornell.22tq7ns3
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Threat Modeling the CI/CD Pipeline to Improve Software Supply Chain Security
-  TalkURL:
+  TalkURL: https://sched.co/lvLx
 - Talk: 
   Speakers:
     - Name: Gian-Luca Frei
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Gian-Luca Frei.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/gianluca.frei
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "OWASP Application Gateway: What is it and how can you use it to secure your webapp?"
-  TalkURL:
+  TalkURL: https://sched.co/lcVR
 - Talk: 
   Speakers:
     - Name: Caroline Wong
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Caroline Wong.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/caroline.wong1
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Security Metrics: Protecting Our Digital Assets of the Future"
-  TalkURL:
+  TalkURL: https://sched.co/lh6R
 - Talk: 
   Speakers:
     - Name: Spencer Pearlman
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SpencerPearlman.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/spencer.pearlman
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Common NGINX Misconfigurations That Leave Your Web Server Open To Attack
-  TalkURL:
+  TalkURL: https://sched.co/lbqV
 - Talk: 
   Speakers:
     - Name: Guest Speaker Troy Hunt
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_TroyHunt.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/guest_speaker_troy_hunt.22tgfelj
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Live Q&A Session
-  TalkURL:
+  TalkURL: https://sched.co/lt1c
 - Talk: 
   Speakers:
     - Name: Guest Speaker Wendy Nather 
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_WendyNather.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/guest_speaker_wendy_nather.22tq86f1
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: TBD
-  TalkURL:
+  TalkURL: https://sched.co/lvMB
 - Talk: 
   Speakers:
     - Name: Nikolaos Alexiou
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_NikolaosAlexiou.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/nikolaos.alexiou
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Stop the looters: a method to detect digital skimming attacks"
-  TalkURL:
+  TalkURL: https://sched.co/lcXZ
 - Talk: 
   Speakers:
     - Name: Gary Robinson
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Gary Robinson.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/gary.robinson2
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Top 10 Challenges for DevSecOps
-  TalkURL:
+  TalkURL: https://sched.co/lh71
 - Talk: 
   Speakers:
     - Name: Veronica Schmitt
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Veronica-Schmitt.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/veronicaschmittza
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Five philosophies to building better application logs
-  TalkURL:
+  TalkURL: https://sched.co/lh7N
 - Talk: 
   Speakers:
     - Name: Raymond Pompon
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Raymond-Pompon.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/raypompon
     - Name: Malcolm Heath
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_MalcolmHeath.jpeg   
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/m.heath
   Title: "Looking at 4 years of web honeypot attacks: tactics, techniques and trends"
-  TalkURL:
+  TalkURL: https://sched.co/lcUy
 - Talk: 
   Speakers:
     - Name: John Dickson
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_John Dickson.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/john64
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "These are the Vulns You are Looking For:  AppSec Champions & Jedi Mind Tricks"
-  TalkURL:
+  TalkURL: https://sched.co/ld3l
 - Talk:
   Speakers:
     - Name: Ovidiu Cical
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_OvidiuCical.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/ovidiu_cical.1y2dtvxu
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Your company, as a Knowledge Graph - the foundation of cybersecurity’s future"
-  TalkURL:
+  TalkURL: https://sched.co/lbfo
 - Talk:
   Speakers:
     - Name: Marcin Szydlowski
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Marcin-Szydlowski.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/szydlowski90
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Your code might be secure, but what about your pipeline? Challenges of securing build/deployment environment."
-  TalkURL:
+  TalkURL: https://sched.co/lbrZ
 - Talk:
   Speakers:
     - Name: Tushar Kulkarni
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_TusharKulkarni.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/tushar.kulkarni
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "vAPI : Vulnerable Adversely Programmed Interface (OWASP API Top 10)"
-  TalkURL:
+  TalkURL: https://sched.co/ll1k
 - Talk:
   Speakers:
     - Name: Jan Seredynski
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Jan Seredynski.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/erica.sheehan
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Unlocking Mobile App Security Secrets
-  TalkURL:
+  TalkURL: https://sched.co/lbt8
 - Talk:
   Speakers:
     - Name: Rob van der Veer
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Rob_Der_Veer.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/rob_van_der_veer.1tkia1sy
     - Name: Spyros Gasteratos
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SpyrosGasteratos.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/spyros_gasteratos.22xl4i9d
   Title: The future is simple
-  TalkURL:
+  TalkURL: https://sched.co/lbga
 - Talk:
   Speakers:
     - Name: Grant Ongers
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Grant Ongers.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/grant.ongers
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Scaling AppSec through Education
-  TalkURL:
+  TalkURL: https://sched.co/lbug
 - Talk:
   Speakers:
     - Name: Serge Borso
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SergeBorso.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/serge28
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Running a local Chapter
-  TalkURL:
+  TalkURL: https://sched.co/lbuB
 - Talk:
   Speakers:
     - Name: Jeevan Singh
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Jeevan_Singh.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/securitysubmittable
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Redefining Threat Modeling: Security team goes on vacation"
-  TalkURL:
+  TalkURL: https://sched.co/lbnc
 - Talk:
   Speakers:
     - Name: Julia Potapenko
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Julia_Potapenko.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/julepka
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: React Native Security. Addressing typical mistakes
-  TalkURL:
+  TalkURL: https://sched.co/lbhP
 - Talk:
   Speakers:
     - Name: Kim Carter
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_KimCarter.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/binarymist
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Purple Teaming with OWASP Purpleteam
-  TalkURL:
+  TalkURL: https://sched.co/lbVT
 - Talk:
   Speakers:
     - Name: Aaron Ansari
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_AaronAnsari.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/aaron_ansari
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Preventing an OWASP Top 10 in the world of AI
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbx2/preventing-an-owasp-top-10-in-the-world-of-ai
 - Talk:
   Speakers:
     - Name: Riotaro OKADA
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_RiotaroOkada.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/riotaro.okada
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Post-DevOps, what should we shift-left?"
-  TalkURL:
+  TalkURL: https://sched.co/lbtn
 - Talk:
   Speakers:
     - Name: Florian Stahl
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_FlorianStahl.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/florian.stahl
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP Top 10 Privacy Risks 2021
-  TalkURL:
+  TalkURL: https://sched.co/lboO
 - Talk:
   Speakers:
     - Name: Kevin Wall
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_KevinWall.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/kevin.w.wall1
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "OWASP ESAPI – A Retrospective: The Good, the Bad, & the Ugly"
-  TalkURL:
+  TalkURL: https://sched.co/lbsv
 - Talk:
   Speakers:
     - Name: Matt Tesauro
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Matt Tesauro.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/matt.tesauro2
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "OWASP DefectDojo - the Heart of your AppSec Automation"
-  TalkURL:
+  TalkURL: https://sched.co/lcSv
 - Talk:
   Speakers:
     - Name: Isabelle Mauny
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Isabelle Mauny.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/isabelle_mauny.20974ss7
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "OWASP API Security Top 10 - A Beginner's Guide to Mitigation"
-  TalkURL:
+  TalkURL: https://sched.co/lbqr
 - Talk:
   Speakers:
     - Name: Or Katz
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Or Katz.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/or_katz.1sa081ua
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Over 20 Years of SQL Injection Attacks in the Wild - Time to Refine and Optimize Web Attack Detection by Using Data Mining Techniques"
-  TalkURL:
+  TalkURL: https://sched.co/lbsh
 - Talk:
   Speakers:
     - Name: Erez Yalon
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_ErezYalon.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/erez.yalon
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Objects In The Rear View Mirror Are Closer Than They Appear
-  TalkURL:
+  TalkURL: https://sched.co/lcTE
 - Talk:
   Speakers:
     - Name: Magno Logan
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Magno Logan.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/magnologan
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Kubernetes Security: Attacking and Defending K8s Clusters"
-  TalkURL:
+  TalkURL: https://sched.co/lbpC
 - Talk:
   Speakers:
     - Name: Barak Schoster
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_BarakSchoster.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/barak20
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Introducing graph theory to Policy-As-Code"
-  TalkURL:
+  TalkURL: https://sched.co/lcYI
 - Talk:
   Speakers:
     - Name: Vickie Li
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_VickieLi.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/vickie57
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: How To Review Code For Vulnerabilities
-  TalkURL:
+  TalkURL: https://sched.co/lbrm
 - Talk:
   Speakers:
     - Name: Stefania Chaplin
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Stefania-Chaplin.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/schaplin
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "How Security, Development & Testing can work together to stop the same recurring vulnerabilities appearing in the OWASP Top 10"
-  TalkURL:
+  TalkURL: https://sched.co/lbua
 - Talk:
   Speakers:
     - Name: Himanshu Dwivedi
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Himanshu-Dwivedi.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/ae14
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Hack Your APIs in 15 Minutes or Less
-  TalkURL:
+  TalkURL: https://sched.co/lbsD
 - Talk:
   Speakers:
     - Name: Nick Nikiforakis
@@ -731,193 +731,193 @@
     - Name: Nick Nikiforakis
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Nick_Nikiforakis.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/nick283
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Everything You Always Wanted to Know About Fingerprinting Browser Extensions, But Were Afraid to Ask"
-  TalkURL:
+  TalkURL: https://sched.co/lbdp
 - Talk:
   Speakers:
     - Name: Dr. Aharon Abadi
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Aharon-Abadi.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/abadiaharon
     - Name: Rami Elron
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_RamiElron.jpeg     
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/rami_elron.22uq7cpl
   Title: "Effective Usage Analysis: The Shortest Path Between a Developer and Accelerated Product Releases"
-  TalkURL:
+  TalkURL: https://sched.co/lhAx
 - Talk:
   Speakers:
     - Name: Scott Gerlach
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Scott Gerlach.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/scott1412
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Developers Struggle with Application Security (and How to Make It Better)"
-  TalkURL:
+  TalkURL: https://sched.co/lbsU
 - Talk:
   Speakers:
     - Name: Brian Reed
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_BrianReed.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/brian1140
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/20th_Web_Speakers_Link_BrookeDavis.jpeg    
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Creating an IoT-connected Mobile App Compliance Program Leveraging OWASP MASVS
-  TalkURL:
+  TalkURL: https://sched.co/lbiL
 - Talk:
   Speakers:
     - Name: Miguel Calles
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Miguel Calles.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/miguelacallesmba
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Costly mistakes in serverless computing
-  TalkURL:
+  TalkURL: https://sched.co/lcXL
 - Talk:
   Speakers:
     - Name: Catalin Curelaru
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Catalin-Curelaru.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/catalin.curelaru
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Connecting the Dots: How Threat Intelligence Protects the Applications"
-  TalkURL:
+  TalkURL: https://sched.co/lbtw
 - Talk:
   Speakers:
     - Name: Jason Kent
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Jason Kent.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/jason.kent2
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Common Application Security Mistakes that Enable Automated Attacks
-  TalkURL:
+  TalkURL: https://sched.co/lbtH
 - Talk:
   Speakers:
     - Name: Phu H. Phung
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_PhuHPhung.jpg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/phu5
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Code-Origin Policy: Towards a Formal User Privacy Protection for the Web"
-  TalkURL:
+  TalkURL: https://sched.co/lbqB
 - Talk:
   Speakers:
     - Name: Benjamin Fabre
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_BenjaminFabre.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/b49
     - Name: Antoine Vastel
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_AntoineVastel.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/antoine_vastel.7h8b9ep
   Title: "Bot or human? Detecting malicious bots with machine learning in 2021"
-  TalkURL:
+  TalkURL: https://sched.co/lbUV
 - Talk:
   Speakers:
     - Name: Dr. Abhilasha Vyas
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Abhilasha-Vyas.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/abhilasha.cs27
    # - Name: Speaker Two
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL:
   Title: "Blockchain-based Security Framework for Cyber Physical Systems (BSF-CPS)"
-  TalkURL:
+  TalkURL: https://sched.co/lbqJ
 - Talk:
   Speakers:
     - Name: Dr. Aharon Abadi
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Aharon-Abadi.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/abadiaharon
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg
       #URL:
   Title: Automatic Vulnerability Remediation - The Trustful and Secure Road to Developer Happiness
-  TalkURL:
+  TalkURL: https://sched.co/lcXu
 - Talk:
   Speakers:
     - Name: Eitan Worcel
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Eitan Worcel.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/eitanworcel
     - Name: Ran Klein
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_RanKlein.jpeg   
-      URL:
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/ran_klein.22tm8mgo
   Title: Automated Finding Correlation where do SAST, DAST and IAST overlap 
-  TalkURL:
+  TalkURL: https://sched.co/lbtb
 - Talk:
   Speakers:
     - Name: Joseph Feiman 
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Joseph_Feiman.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/whitehatsecurity
     #- Name: Speaker Two
      # Email: test.test@owasp.org
      # Image: /assets/images/OWASP_20th_Anniversary.svg      
      # URL:
   Title: "AppSec Timeline: Wins, Failures, Promises, and Predictions"
-  #TalkURL:
+  TalkURL: https://sched.co/lbig
 - Talk:
   Speakers:
     - Name: Alexander Barabanov
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Alexander-Barabanov.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/alexander185
     #- Name: Speaker Two
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL:
   Title: "Attacking the microservice systems: methods and practical tips"
-  #TalkURL:
+  TalkURL: https://sched.co/lbq1
 - Talk:
   Speakers:
     - Name: Luis Quispe Gonzales
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Luis_Q._Gonzales.jpg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/luis.quispegonzales
     #- Name: Speaker Two
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL:
   Title: "All your Ether belong to us (a.k.a Hacking Ethereum-based DApps)"
-  TalkURL:
+  TalkURL: https://sched.co/lbox
 - Talk:
   Speakers:
     - Name: Christian Schneider
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Christian_Schneider.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/cschneider4711
     #- Name: Speaker Two
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL:
   Title: Agile Threat Modeling with Open-Source Tools
-  TalkURL:
+  TalkURL: https://sched.co/lbei
 - Talk:
   Speakers:
     - Name: Pedro Fortuna
