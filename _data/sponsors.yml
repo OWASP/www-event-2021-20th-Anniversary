@@ -73,11 +73,6 @@
   url: https://www.nowsecure.com/
   backgroundSize: 125px
   type: Premier Sponsor
-- logo: /assets/images/sponsors/OWASPLogo.png
-  name: OWASP Foundation
-  url: https://owasp.org/
-  backgroundSize: 125px
-  type: Premier Sponsor
 - logo: /assets/images/sponsors/Parasoft2018Logo_300x90.png
   name: Parasoft
   url: https://www.parasoft.com/
