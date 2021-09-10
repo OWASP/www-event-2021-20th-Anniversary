@@ -851,25 +851,25 @@
     - Name: Dr. Aharon Abadi
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Aharon-Abadi.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/abadiaharon
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg
       #URL:
   Title: Automatic Vulnerability Remediation - The Trustful and Secure Road to Developer Happiness
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lcXu/automatic-vulnerability-remediation-the-trustful-and-secure-road-to-developer-happiness
 - Talk:
   Speakers:
     - Name: Eitan Worcel
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Eitan Worcel.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/eitanworcel
     - Name: Ran Klein
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_RanKlein.jpeg   
-      URL:
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/ran_klein.22tm8mgo
   Title: Automated Finding Correlation where do SAST, DAST and IAST overlap 
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbtb/automated-finding-correlation-where-do-sast-dast-and-iast-overlap
 - Talk:
   Speakers:
     - Name: Joseph Feiman 
@@ -887,13 +887,13 @@
     - Name: Alexander Barabanov
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Alexander-Barabanov.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/alexander185
     #- Name: Speaker Two
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL:
   Title: "Attacking the microservice systems: methods and practical tips"
-  #TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbq1/attacking-the-microservice-systems-methods-and-practical-tips
 - Talk:
   Speakers:
     - Name: Luis Quispe Gonzales
