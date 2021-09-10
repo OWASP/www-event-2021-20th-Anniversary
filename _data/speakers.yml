@@ -27,13 +27,13 @@
     - Name: Guest Speaker Nicole Dove
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_NicoleDove.jpeg   
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/nicole_dove.22ujx863
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Decoded: Leverage Cybersecurity as a Business Enabler"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/m5Xv/decoded-leverage-cybersecurity-as-a-business-enabler
 - Talk: 
   Speakers:
     - Name: Guest Speaker Larry Maccherone
@@ -395,13 +395,13 @@
     - Name: Veronica Schmitt
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Veronica-Schmitt.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/veronicaschmittza
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Five philosophies to building better application logs
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lh7N/five-philosophies-to-building-better-application-logs
 - Talk: 
   Speakers:
     - Name: Raymond Pompon
@@ -707,61 +707,61 @@
     - Name: Nick Nikiforakis
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Nick_Nikiforakis.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/nick283
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Good Bot, Bad Bot: Characterizing Automated Browsing Activity"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbdp/good-bot-bad-bot-characterizing-automated-browsing-activity
 - Talk:
   Speakers:
     - Name: Daniel Krasnokucki
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Daniel_Krasnokucki.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/daniel1062
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Feedback loop in DevSecOps - mature security process and dev cooperation"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbh7/feedback-loop-in-devsecops-mature-security-process-and-dev-cooperation
 - Talk:
   Speakers:
     - Name: Nick Nikiforakis
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Nick_Nikiforakis.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/nick283
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Everything You Always Wanted to Know About Fingerprinting Browser Extensions, But Were Afraid to Ask"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbnu/everything-you-always-wanted-to-know-about-fingerprinting-browser-extensions-but-were-afraid-to-ask
 - Talk:
   Speakers:
     - Name: Dr. Aharon Abadi
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Aharon-Abadi.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/abadiaharon
     - Name: Rami Elron
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_RamiElron.jpeg     
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/rami_elron.22uq7cpl
   Title: "Effective Usage Analysis: The Shortest Path Between a Developer and Accelerated Product Releases"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lhAx/effective-usage-analysis-the-shortest-path-between-a-developer-and-accelerated-product-releases
 - Talk:
   Speakers:
     - Name: Scott Gerlach
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Scott Gerlach.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/scott1412
     #- Name:
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Developers Struggle with Application Security (and How to Make It Better)"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbsU/developers-struggle-with-application-security-and-how-to-make-it-better
 - Talk:
   Speakers:
     - Name: Brian Reed
