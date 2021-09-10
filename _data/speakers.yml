@@ -881,7 +881,7 @@
      # Image: /assets/images/OWASP_20th_Anniversary.svg      
      # URL:
   Title: "AppSec Timeline: Wins, Failures, Promises, and Predictions"
-  #TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbig/appsec-timeline-wins-failures-promises-and-predictions
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbig/appsec-timeline-wins-failures-promises-and-predictions
 - Talk:
   Speakers:
     - Name: Alexander Barabanov
