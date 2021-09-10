@@ -69,7 +69,7 @@
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Security As Code - The New Model Of Achieving Security At Scale"
-  TalkURL:
+  TalkURL: 
 - Talk: 
   Speakers:
     - Name: Kavisha Sheth
@@ -923,10 +923,10 @@
     - Name: Pedro Fortuna
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Pedro_Fortuna.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/pedro_fortuna.708kzjp
     - Name: Jasvir Nagra 
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_JasvirNagra.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/jasvir
   Title: Achieving the Web Isolation Nirvana - How far along are we?
   TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lboi/achieving-the-web-isolation-nirvana-how-far-along-are-we
