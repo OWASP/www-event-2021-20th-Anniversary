@@ -335,13 +335,13 @@
     - Name: Spencer Pearlman
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SpencerPearlman.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/spencer.pearlman
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Common NGINX Misconfigurations That Leave Your Web Server Open To Attack
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbqV/common-nginx-misconfigurations-that-leave-your-web-server-open-to-attack
 - Talk: 
   Speakers:
     - Name: Guest Speaker Troy Hunt
@@ -767,85 +767,85 @@
     - Name: Brian Reed
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_BrianReed.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/brian1140
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/20th_Web_Speakers_Link_BrookeDavis.jpeg    
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Creating an IoT-connected Mobile App Compliance Program Leveraging OWASP MASVS
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbiL/creating-an-iot-connected-mobile-app-compliance-program-leveraging-owasp-masvs
 - Talk:
   Speakers:
     - Name: Miguel Calles
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Miguel Calles.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/miguelacallesmba
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Costly mistakes in serverless computing
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lcXL/costly-mistakes-in-serverless-computing
 - Talk:
   Speakers:
     - Name: Catalin Curelaru
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Catalin-Curelaru.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/catalin.curelaru
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Connecting the Dots: How Threat Intelligence Protects the Applications"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbtw/connecting-the-dots-how-threat-intelligence-protects-the-applications
 - Talk:
   Speakers:
     - Name: Jason Kent
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Jason Kent.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/jason.kent2
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: Common Application Security Mistakes that Enable Automated Attacks
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbtH/common-application-security-mistakes-that-enable-automated-attacks
 - Talk:
   Speakers:
     - Name: Phu H. Phung
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_PhuHPhung.jpg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/phu5
     #- Name: 
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: "Code-Origin Policy: Towards a Formal User Privacy Protection for the Web"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbqB/code-origin-policy-towards-a-formal-user-privacy-protection-for-the-web
 - Talk:
   Speakers:
     - Name: Benjamin Fabre
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_BenjaminFabre.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/b49
     - Name: Antoine Vastel
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_AntoineVastel.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/antoine_vastel.7h8b9ep
   Title: "Bot or human? Detecting malicious bots with machine learning in 2021"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbUV/bot-or-human-detecting-malicious-bots-with-machine-learning-in-2021
 - Talk:
   Speakers:
     - Name: Dr. Abhilasha Vyas
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Abhilasha-Vyas.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/abhilasha.cs27
    # - Name: Speaker Two
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL:
   Title: "Blockchain-based Security Framework for Cyber Physical Systems (BSF-CPS)"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbqJ/blockchain-based-security-framework-for-cyber-physical-systems-bsf-cps
 - Talk:
   Speakers:
     - Name: Dr. Aharon Abadi
