@@ -875,13 +875,13 @@
     - Name: Joseph Feiman 
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Joseph_Feiman.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/whitehatsecurity
     #- Name: Speaker Two
      # Email: test.test@owasp.org
      # Image: /assets/images/OWASP_20th_Anniversary.svg      
      # URL:
   Title: "AppSec Timeline: Wins, Failures, Promises, and Predictions"
-  #TalkURL:
+  #TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbig/appsec-timeline-wins-failures-promises-and-predictions
 - Talk:
   Speakers:
     - Name: Alexander Barabanov
@@ -899,25 +899,25 @@
     - Name: Luis Quispe Gonzales
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Luis_Q._Gonzales.jpg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/luis.quispegonzales
     #- Name: Speaker Two
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL:
   Title: "All your Ether belong to us (a.k.a Hacking Ethereum-based DApps)"
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbox/all-your-ether-belong-to-us-aka-hacking-ethereum-based-dapps
 - Talk:
   Speakers:
     - Name: Christian Schneider
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Christian_Schneider.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/cschneider4711
     #- Name: Speaker Two
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL:
   Title: Agile Threat Modeling with Open-Source Tools
-  TalkURL:
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lbei/agile-threat-modeling-with-open-source-tools
 - Talk:
   Speakers:
     - Name: Pedro Fortuna
