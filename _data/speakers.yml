@@ -1,17 +1,5 @@
 - Talk: 
   Speakers:
-    - Name: Guest Speaker Kate Hartmann
-      Email: test.test@owasp.org
-      Image: /assets/images/20th_Web_Speakers_Link_KateHartmann.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/speaker/kate_hartmann.22xkxq05
-    #- Name: 
-      #Email: test.test@owasp.org
-      #Image:   
-      #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: TBD
-  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/mubN/tbd
-- Talk: 
-  Speakers:
     - Name: Matt Tesauro
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Matt Tesauro.jpeg  
