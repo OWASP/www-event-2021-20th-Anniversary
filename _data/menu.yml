@@ -1,5 +1,7 @@
 - title: HOME
   url: /
+- title: AGENDA
+  url: / <a id=“sched-embed” href=“//owasp20thanniversaryevent20.sched.com/”>View the OWASP 20th Anniversary Event schedule &amp; directory.</a><script type=“text/javascript” src=“//owasp20thanniversaryevent20.sched.com/js/embed.js”></script>
 - title: SPEAKERS
   items: 
     - title: Keynote Speakers
