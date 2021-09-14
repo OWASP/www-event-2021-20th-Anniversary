@@ -160,12 +160,20 @@
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Andrew_van_derStock.jpeg     
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/andrew_van_der_stock.22ua9xcw
-    - Name: Brian Glas
+    #- Name: Brian Glas
+      #Email: test.test@owasp.org
+      #Image: /assets/images/20th_Web_Speakers_Link_BrianGlas.jpeg      
+      #URL: https://owasp20thanniversaryevent20.sched.com/speaker/brian_glas.22ua9cn0
+  Title: OWASP Top 10 Flagship Project Leaders
+  TalkURL: https://sched.co/myc2
+- Talk: 
+  Speakers:
+   - Name: Brian Glas
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_BrianGlas.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/brian_glas.22ua9cn0
-  Title: OWASP Top 10 Flagship Project Leaders
-  TalkURL: https://sched.co/myc2
+  Title: The making of the OWASP Top 10 and beyond
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/myc2/owasp-top-10-flagship-project-the-making-of-the-owasp-top-10-and-beyond
 - Talk: 
   Speakers:
     - Name: Christian Folini
