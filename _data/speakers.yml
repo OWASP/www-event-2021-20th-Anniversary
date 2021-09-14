@@ -748,10 +748,10 @@
   TalkURL: https://sched.co/lbdp
 - Talk:
   Speakers:
-    - Name: Dr. Aharon Abadi
-      Email: test.test@owasp.org
-      Image: /assets/images/20th_Web_Speakers_Link_Aharon-Abadi.jpeg
-      URL: https://owasp20thanniversaryevent20.sched.com/speaker/abadiaharon
+    #- Name: Dr. Aharon Abadi
+      #Email: test.test@owasp.org
+      #Image: /assets/images/20th_Web_Speakers_Link_Aharon-Abadi.jpeg
+      #URL: https://owasp20thanniversaryevent20.sched.com/speaker/abadi
     - Name: Rami Elron
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_RamiElron.jpeg     
