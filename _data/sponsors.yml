@@ -63,6 +63,11 @@
   url: https://iriusrisk.com/
   backgroundSize: 125px
   type: Premier Sponsor
+- logo: /assets/images/sponsors/JscramblerLogo.pdf
+  name: Jscrambler
+  url: https://jscrambler.com/
+  backgroundSize: 125px
+  type: Premier Sponsor
 - logo: /assets/images/sponsors/JupiterOnelogo1.png
   name: JupiterOne
   url: https://jupiterone.com/
