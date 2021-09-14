@@ -168,7 +168,7 @@
   TalkURL: https://sched.co/myc2
 - Talk: 
   Speakers:
-   - Name: Brian Glas
+    - Name: Brian Glas
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_BrianGlas.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/brian_glas.22ua9cn0
