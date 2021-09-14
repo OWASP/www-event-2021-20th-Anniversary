@@ -1,3 +1,15 @@
+- Talk:
+  Speakers:
+    - Name: Tom Brennan
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/tomb9
+    #- Name: 
+      #Email:
+      #Image:
+      #URL:
+  Title: "Fight Club | Grow your OWASP Chapter"
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/n8hd/fight-club-grow-your-owasp-chapter
 - Talk: 
   Speakers:
     - Name: Matt Tesauro
