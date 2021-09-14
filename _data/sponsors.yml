@@ -33,6 +33,11 @@
   url: https://datadome.co/
   backgroundSize: 125px
   type: Supporting Sponsor
+- logo: /assets/images/sponsors/EdgeScanLogo.png
+  name: Edgescan
+  url: https://www.edgescan.com/services/api-security-testing/
+  backgroundSize: 125px
+  type: Supporting Sponsor
 - logo: /assets/images/sponsors/Fluid Attacks-vertical-negro (2) (1).png
   name: Fluid Attacks
   url: https://fluidattacks.com/
