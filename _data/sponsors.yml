@@ -173,3 +173,9 @@
   url: http://www.waratek.com/
   backgroundSize: 125px
   type: Premier Sponsor 
+- logo: /assets/images/sponsors/HackEdu_logo.jpg
+  name: HackEdu
+  url: https://www.hackedu.com/
+  backgroundSize: 125px
+  type: Supporting Sponsor 
+
