@@ -29,5 +29,5 @@ permalink: /program/keynotes/
 			{% endif %}
 		</div>
 		{% endif %}
-	{% endfor %}
+{% endfor %}
 </div>
