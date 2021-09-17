@@ -1,5 +1,29 @@
 - Talk:
   Speakers:
+    - Name: Guest Speaker Aaron Rinehart
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/aaron695
+    #- Name: 
+      #Email:
+      #Image:
+      #URL:
+  Title: "Security Chaos Engineering - Turning the Tide in the War on Uncertainty in Cyber Security"
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/nEPa
+- Talk:
+  Speakers:
+    - Name: Guest Speaker Ric Campo
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/ric.campo
+    #- Name: 
+      #Email:
+      #Image:
+      #URL:
+  Title: "An Attackers View on APAC's 2021 Three Major Breaches"
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/nEPW
+- Talk:
+  Speakers:
     - Name: Guest Speaker Jeff Williams
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_JeffWilliams.jpeg
