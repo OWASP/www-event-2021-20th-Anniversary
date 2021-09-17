@@ -12,10 +12,10 @@
   abstract: 20 years ago I was moderating the webappsec mailing list on securityfocus and had just started a new job running application security at Charles Schwab, when the CIO came running down down the hall demanding to speak to the new guy. He wanted to know why we were in the Wall Street Journal and what I was going to do about it. I felt like I had been framed. After fending off ambulance chasers and wading through marketing “bull shiitake” from vendors, I realized there was a gap that needed to be filled. OWASP was born. No real plan, no real goal, armed with just a belief that the world needed better information I sent out a call to action for like-minded people to get involved. The rest as they say is history. Looking back it’s been an amazing success story of a community that has had a significant positive impact on the world during a time when development technology and the threat landscape has changed beyond recognition.  What was critical to OWASPs success and how should it evolve over the next 20 years? We will take a walk down memory lane, star gaze into the future and leave with an updated call to action for the next twenty years.
 - image: 20th_Web_Keynotes_Home_Philippe_De_Ryck.jpeg
   name: Philippe De Ryck
-  title: "AppSec is too hard!?"
+  title: Founder
   bio: <p>Philippe De Ryck helps developers protect companies through better web security. His Ph.D. in web security from KU Leuven lies at the basis of his exceptional knowledge of the security landscape. As the founder of Pragmatic Web Security, Philippe delivers security training and security consulting to companies worldwide. His online course platform allows anyone to learn complex security topics at their own pace. Philippe is a Google Developer Expert and an Auth0 Ambassador for his community contributions on the security of web applications and APIs.<p>
-  #subject:
-  #abstract:
+  subject: "AppSec is too hard!?"
+  abstract: Looking at available tools and features, it is easy to conclude that AppSec is shooting for the moon. Modern frameworks build security in by default, and vulnerable technologies are replaced by more
 - image: 20th_Web_Keynotes_Home_Eva-Galperin.jpeg
   name: Eva Galperin
   title: Dirctor of Cybersecurity
