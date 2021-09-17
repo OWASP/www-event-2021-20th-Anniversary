@@ -178,4 +178,13 @@
   url: https://www.hackedu.com/
   backgroundSize: 125px
   type: Supporting Sponsor 
-
+- logo: /assets/images/sponsors/silogostacked.png
+  name: Security Innovation
+  url: https://www.securityinnovation.com/
+  backgroundSize: 125px
+  type: Premier Sponsor 
+- logo: /assets/images/sponsors/Sonatype.png
+  name: Sonatype
+  url: https://www.sonatype.com/
+  backgroundSize: 125px
+  type: Premier Sponsor 
