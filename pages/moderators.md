@@ -14,7 +14,7 @@ permalink: /moderators/
 <hr>
 		{% if moderator.name %}
 		<div>
-		    <a name="{{moderator.name}}"><img style="background-image: url(/assets/images/keynotes/{{moderator.image | default: 'owasp_logo.png'}});{{moderator.style}};"></a>
+		    <a name="{{moderator.name}}"><img style="background-image: url({{moderator.image | default: 'owasp_logo.png'}});{{moderator.style}};"></a>
 		</div>
 		<div class='keynote-info'>
 			<a><strong>{{moderator.name}}</strong></a>
