@@ -405,11 +405,11 @@
       Image: /assets/images/20th_Web_Speakers_Link_WendyNather.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/guest_speaker_wendy_nather.22tq86f1
     #- Name: 
-     # Email: test.test@owasp.org
+     #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: TBD
-  TalkURL: https://sched.co/lvMB
+  Title: What Shall We Do With a Vendor SBOM?
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lvMB
 - Talk: 
   Speakers:
     - Name: Nikolaos Alexiou
