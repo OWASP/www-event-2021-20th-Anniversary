@@ -1,5 +1,17 @@
 - Talk:
   Speakers:
+    - Name: Guest Speaker Jeff Williams
+      Email: test.test@owasp.org
+      Image: /assets/images/20th_Web_Speakers_Link_JeffWilliams.jpeg
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/jeff_williams.22ujv6q2
+    #- Name: 
+      #Email:
+      #Image:
+      #URL:
+  Title: "Rough Consensus - An OWASP Story"
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/mubc
+- Talk:
+  Speakers:
     - Name: Guest Speaker Tom Brennan
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
