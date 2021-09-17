@@ -188,3 +188,8 @@
   url: https://www.sonatype.com/
   backgroundSize: 125px
   type: Premier Sponsor 
+- logo: /assets/images/OWASP_20th_Anniversary.svg
+  name: HackenProof
+  url: https://hackenproof.com/
+  backgroundSize: 125px
+  type: Supporting Sponsor
