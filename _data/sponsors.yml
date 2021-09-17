@@ -193,3 +193,8 @@
   url: https://hackenproof.com/
   backgroundSize: 125px
   type: Supporting Sponsor
+- logo: /assets/images/sponsors/SynopsysLogo.png
+  name: Synopsys
+  url: http://www.synopsys.com
+  backgroundSize: 125px
+  type: Premier Sponsor 
