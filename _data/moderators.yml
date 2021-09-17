@@ -1,4 +1,56 @@
 - image: /assets/images/file_name.jpg
-  name: Moderator Example One
-  title: My Title
-  company: My Company
+  name: Vishrant Khanna
+  title: Student
+  company: National Forensic Sciences University
+  - image: /assets/images/file_name.jpg
+  name: Dr. Tim Nedyalkov
+  title: Technology Information Security Officer (if it is too long, shorten it to TISO)
+  company: Commonwealth Bank of Australia
+  - image: /assets/images/file_name.jpg
+  name: Saman Fatima
+  title: Data Engineer
+  company: Macquarie Group
+  - image: /assets/images/file_name.jpg
+  name: Dr. John DiLeo
+  title: Software Assurance Lead, AppSec Services
+  company: Datacom New Zealand
+  - image: /assets/images/file_name.jpg
+  name: Gabriel Chen
+  title: Graduate Student
+  company: University of Illinois at Urbana-Champaign
+  - image: /assets/images/file_name.jpg
+  name: Azzeddine Ramrami
+  title: Senior Security Architect
+  company: IBM Security
+  - image: /assets/images/file_name.jpg
+  name: Martin Knobloch
+  title: OWASP Global Foundation Boardmember + Global Application Security Strategist
+  company: OWASP + CyberRes / Fortify
+  - image: /assets/images/file_name.jpg
+  name: Takaharu Ogasa
+  title: OWASP Sendai Chapter Leader / Security Initiative
+  company: OWASP Sendai Chapter Leader
+  - image: /assets/images/file_name.jpg
+  name: Bhushan Gupta
+  title: Principal Consultant
+  company: Gupta Consulting, LLC.
+  - image: /assets/images/file_name.jpg
+  name: Abhishek Bhosale
+  title: Country Representative
+  company: P2p+ Evaluation Asia Pacific Hub
+  - image: /assets/images/file_name.jpg
+  name: Temitope Odemo
+  title: Software Quality Analyst/Web App security Analyst
+  company: Fintrak Software
+  - image: /assets/images/file_name.jpg
+  name: Lokesh Dhakad
+  title: Cybersecurity Researcher
+  company: National Forensic Sciences University
+  - image: /assets/images/file_name.jpg
+  name: Michelle Ribeiro
+  #title:
+  company: Author of the upcoming O'Reilly book "Learning DevSecOps"
+  - image: /assets/images/file_name.jpg
+  name: Manuel Lopez Arredondo
+  title: Cyber Security Coordinator | PCI | SOX
+  company: Undefeated Cyber Vault
