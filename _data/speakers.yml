@@ -1,5 +1,17 @@
 - Talk:
   Speakers:
+    - Name: Sean Duggan
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/sean.duggan4
+    #- Name: 
+      #Email:
+      #Image:
+      #URL:
+  Title: OWASP Security Shepard Flagship Project
+  Talk URL: https://owasp20thanniversaryevent20.sched.com/event/nOeV
+- Talk:
+  Speakers:
     - Name: Guest Speaker Edwin Kwan
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
@@ -9,7 +21,7 @@
       #Image:
       #URL:
   Title: It's Not Your Developers' Fault
-  Talk URL: 
+  Talk URL: https://owasp20thanniversaryevent20.sched.com/event/nNt0
 - Talk:
   Speakers:
     - Name: Guest Speaker Cole Cornford
