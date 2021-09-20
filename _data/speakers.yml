@@ -1,5 +1,17 @@
 - Talk:
   Speakers:
+    - Name: Stefan Streichsbier
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/stefan120
+    #- Name: 
+      #Email:
+      #Image:
+      #URL:
+  Title: DevSecOps in 2031: How robots and humans will secure apps together
+  Talk URL: https://owasp20thanniversaryevent20.sched.com/event/nOx2
+- Talk:
+  Speakers:
     - Name: Sean Duggan
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
