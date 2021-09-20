@@ -1,5 +1,17 @@
 - Talk:
   Speakers:
+    - Name: Guest Speaker Cole Cornford
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/cole.cornford
+    #- Name: 
+      #Email:
+      #Image:
+      #URL:
+  Title: "Back to Basics: Looking for subtle bugs in beginner programming constructs"
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/nNqQ
+- Talk:
+  Speakers:
     - Name: Guest Speaker Aaron Rinehart
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
