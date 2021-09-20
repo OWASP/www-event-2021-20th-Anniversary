@@ -108,7 +108,7 @@
   url: https://www.securecodewarrior.com/
   backgroundSize: 125px
   type: Premier Sponsor
-- logo: https://owasp.org/assets/images/sponsors/ShiftLeftPrimaryLogo.png
+- logo: /assets/images/sponsors/ShiftLeftPrimaryLogo.png
   name: ShiftLeft
   url: https://www.shiftleft.io/?utm_source=blog&utm_medium=web	
   backgroundSize: 125px
