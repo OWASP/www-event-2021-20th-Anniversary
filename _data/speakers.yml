@@ -708,8 +708,8 @@
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: "OWASP DefectDojo - the Heart of your AppSec Automation"
-  TalkURL: https://sched.co/lcSv
+  Title: "Automate Security, Don't Tell Your Boss"
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/lcSv
 - Talk:
   Speakers:
     - Name: Isabelle Mauny
