@@ -38,7 +38,7 @@
   Speakers:
     - Name: Guest Speaker Cole Cornford
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_ColeCornford.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/cole.cornford
     #- Name: 
       #Email:
@@ -50,7 +50,7 @@
   Speakers:
     - Name: Guest Speaker Aaron Rinehart
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images/20th_Web_Speakers_Link_AaronRinehart.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/aaron695
     #- Name: 
       #Email:
@@ -62,7 +62,7 @@
   Speakers:
     - Name: Guest Speaker Ric Campo
       Email: test.test@owasp.org
-      Image: /assets/images/OWASP_20th_Anniversary.svg
+      Image: /assets/images20th_Web_Speakers_Link_RicCampo.jpeg
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/ric.campo
     #- Name: 
       #Email:
