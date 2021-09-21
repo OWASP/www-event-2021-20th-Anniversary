@@ -1,5 +1,17 @@
 - Talk:
   Speakers:
+    - Name: Sam Stepanyan
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/securestep9
+    #- Name: 
+      #Email:
+      #Image:
+      #URL:
+  Title: OWASP Nettacker Project
+  Talk URL: https://owasp20thanniversaryevent20.sched.com/event/nPYn
+- Talk:
+  Speakers:
     - Name: Guest Speaker Stefan Streichsbier
       Email: test.test@owasp.org
       Image: /assets/images/OWASP_20th_Anniversary.svg
