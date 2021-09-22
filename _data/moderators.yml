@@ -42,7 +42,7 @@
   name: Temitope Odemo
   title: Software Quality Analyst/Web App security Analyst
   company: Fintrak Software
-- image: /assets/images/OWASP_20th_Anniversary.svg
+- image: /assets/images/LokeshDhakad.jpeg
   name: Lokesh Dhakad
   title: Cybersecurity Researcher
   company: National Forensic Sciences University
@@ -58,4 +58,8 @@
   name: Jessy Ayala
   title: Associate Cybersecurity Engineer
   company: Insulet Corporation
+- image: /assets/images/SujathaYakasiri.jpeg
+  name: Sujatha Yakasiri
+  title: Sr Computer Scientist
+  company: EdgeVerve (An Infosys Company)
   
