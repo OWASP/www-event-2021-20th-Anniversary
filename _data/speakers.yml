@@ -19,7 +19,7 @@
     #- Name: 
       #Email:
       #Image: /assets/images/OWASP_20th_Anniversary.svg
-      #URL: https://owasp20thanniversaryevent20.sched.com/speaker/vandana_verma.22zaz3e0
+      #URL: 
   Title: Achieving Security by Shifting Left in Agile
   Talk URL: https://owasp20thanniversaryevent20.sched.com/event/nZEV
 - Talk:
@@ -29,9 +29,9 @@
       Image: /assets/images/OWASP_20th_Anniversary.svg
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/steven539
     - Name: Vandana Verama
-      #Email:
-      #Image: /assets/images/OWASP_20th_Anniversary.svg
-      #URL: https://owasp20thanniversaryevent20.sched.com/speaker/vandana_verma.22zaz3e0
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/vandana_verma.22zaz3e0
   Title: Security begins with secure development environments
   Talk URL: https://owasp20thanniversaryevent20.sched.com/event/nXX3
 - Talk:
