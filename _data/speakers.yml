@@ -128,7 +128,7 @@
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_AaronWeaver.jpeg  
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/aaron_weaver.22ua9m6s
-  Title: OWASP DefectDojo Flagship Project Leaders
+  Title: OWASP DefectDojo Flagship Project
   TalkURL: https://owasp20thanniversaryevent20.sched.com/event/m1wH/owasp-defectdojo-flagship-project
 - Talk: 
   Speakers:
@@ -200,7 +200,7 @@
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: OWASP Cloud-Native Application Security Top 10 Flagship Project Leader
+  Title: OWASP Cloud-Native Application Security Top 10 Flagship Project
   TalkURL: https://sched.co/m1wf
 - Talk: 
   Speakers:
@@ -212,7 +212,7 @@
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SteveSpringett.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/steve_springett.22ua1fwp
-  Title: OWASP Cyclone DX Flagship Project Leaders
+  Title: OWASP Cyclone DX Flagship Project 
   TalkURL: https://sched.co/m1wX
 - Talk: 
   Speakers:
@@ -224,7 +224,7 @@
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_JimManico.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/jim_manico.22ua9y2y
-  Title: OWASP Application Security Verification Standard (ASVS) Flagship Project Leaders
+  Title: OWASP Application Security Verification Standard (ASVS) Flagship Project
   TalkURL: https://sched.co/m1wT
 - Talk: 
   Speakers:
@@ -236,7 +236,7 @@
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: OWASP OWTF Flagship Project Leader
+  Title: OWASP OWTF Flagship Project 
   TalkURL: https://owasp20thanniversaryevent20.sched.com/event/m1wQ
 - Talk: 
   Speakers:
@@ -248,7 +248,7 @@
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: OWASP Dependency-Check Flagship Project Leader
+  Title: OWASP Dependency-Check Flagship Project 
   TalkURL: https://sched.co/m1wL
 - Talk: 
   Speakers:
@@ -260,7 +260,7 @@
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Albert_Istvan.jpeg    
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/istvan_albert_toth.22ua9jj3
-  Title: OWASP CSRFGuard Flagship Project Leaders
+  Title: OWASP CSRFGuard Flagship Project
   TalkURL: https://sched.co/m1wE
 - Talk: 
   Speakers:
@@ -272,7 +272,7 @@
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: OWASP Amass Flagship Project Leader
+  Title: OWASP Amass Flagship Project 
   TalkURL: https://sched.co/m1w2
 - Talk: 
   Speakers:
@@ -284,7 +284,7 @@
       #Email: test.test@owasp.org
       #Image: /assets/images/20th_Web_Speakers_Link_BrianGlas.jpeg      
       #URL: https://owasp20thanniversaryevent20.sched.com/speaker/brian_glas.22ua9cn0
-  Title: OWASP Top 10 Flagship Project Leaders
+  Title: OWASP Top 10 Flagship Project
   TalkURL: https://sched.co/myc2
 - Talk: 
   Speakers:
@@ -300,7 +300,7 @@
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_ChristianFolini.jpeg    
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/christian_falini.22ua97o4
-  Title: OWASP ModSecurity Core Rule Set Flagship Project Leader
+  Title: OWASP ModSecurity Core Rule Set Flagship Project
   TalkURL: https://sched.co/m1vo
 - Talk: 
   Speakers:
@@ -312,7 +312,7 @@
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: OWASP Cheat Sheet Series Flagship Project Leader
+  Title: OWASP Cheat Sheet Series Flagship Project
   TalkURL: https://sched.co/m1vl
 - Talk: 
   Speakers:
@@ -324,7 +324,7 @@
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: OWASP Web Security Testing Guide Flagship Project Leader
+  Title: OWASP Web Security Testing Guide Flagship Project
   TalkURL: https://sched.co/m1wy
 - Talk: 
   Speakers:
@@ -336,7 +336,7 @@
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_Riccardo_ten_Cate.jpeg     
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/riccardo_ten_cate.kseu1lqk
-  Title: OWASP Security Knowledge Framework Flagship Project Leaders
+  Title: OWASP Security Knowledge Framework Flagship Project
   TalkURL: https://sched.co/m1ut
 - Talk: 
   Speakers:
@@ -348,7 +348,7 @@
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_BartDeWin.jpeg     
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/bart_de_win.22ua7a0a
-  Title: OWASP Software Assurance Maturity Model (SAMM) Flagship Project Leaders
+  Title: OWASP Software Assurance Maturity Model (SAMM) Flagship Project
   TalkURL: https://sched.co/m1uU
 - Talk: 
   Speakers:
@@ -360,7 +360,7 @@
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SvenSchleier.jpeg      
       URL: https://owasp20thanniversaryevent20.sched.com/speaker/sven_schleier.22ua732i
-  Title: OWASP Mobile Security Testing Guide Flagship Project Leaders
+  Title: OWASP Mobile Security Testing Guide Flagship Project
   TalkURL: https://sched.co/m1uP
 - Talk: 
   Speakers:
@@ -372,7 +372,7 @@
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: OWASP Juice Shop Flagship Project Leader
+  Title: OWASP Juice Shop Flagship Project 
   TalkURL: https://owasp20thanniversaryevent20.sched.com/event/m1uL/owasp-juice-shop-flagship-project
 - Talk: 
   Speakers:
@@ -384,7 +384,7 @@
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: OWASP Dependency Track Flagship Project Leader
+  Title: OWASP Dependency Track Flagship Project
   TalkURL: https://sched.co/m1tL
 - Talk: 
   Speakers:
@@ -396,7 +396,7 @@
      # Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
-  Title: OWASP ZAP Flagship Project Leader
+  Title: OWASP ZAP Flagship Project
   TalkURL: https://sched.co/m1tC
 - Talk: 
   Speakers:
