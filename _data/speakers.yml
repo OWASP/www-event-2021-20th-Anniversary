@@ -1,5 +1,17 @@
 - Talk:
   Speakers:
+    - Name: Steven Coochin
+      Email: test.test@owasp.org
+      Image: /assets/images/OWASP_20th_Anniversary.svg
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/steven539
+    - Name: Vandana Veram
+      #Email:
+      #Image: /assets/images/OWASP_20th_Anniversary.svg
+      #URL: https://owasp20thanniversaryevent20.sched.com/speaker/vandana_verma.22zaz3e0
+  Title: Security begins with secure development environments
+  Talk URL: https://owasp20thanniversaryevent20.sched.com/event/nXX3
+- Talk:
+  Speakers:
     - Name: Sam Stepanyan
       Email: test.test@owasp.org
       Image: /assets/images/20th_Web_Speakers_Link_SamStepanyan.jpeg
