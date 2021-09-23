@@ -26,7 +26,7 @@
   title: Founder
   bio: <p>Philippe De Ryck helps developers protect companies through better web security. His Ph.D. in web security from KU Leuven lies at the basis of his exceptional knowledge of the security landscape. As the founder of Pragmatic Web Security, Philippe delivers security training and security consulting to companies worldwide. His online course platform allows anyone to learn complex security topics at their own pace. Philippe is a Google Developer Expert and an Auth0 Ambassador for his community contributions on the security of web applications and APIs.</p>
   subject: AppSec is too hard!?
-  abstract: Looking at available tools and features, it is easy to conclude that AppSec is shooting for the moon. Modern frameworks build security in by default, and vulnerable technologies are replaced by more
+  abstract: Looking at available tools and features, it is easy to conclude that AppSec is shooting for the moon. Modern frameworks build security in by default, and vulnerable technologies are replaced by more secure alternatives. But regardless of all these good intentions, we see the same vulnerabilities popping up over and over again. Are we just careless when building applications, or is AppSec too hard? Throughout this talk, we review various cases where frameworks and libraries get in the way of security, paving the way for application-level vulnerabilities. With practical examples, we investigate more robust approaches to application security. The patterns we discuss will not only help you to improve the security of your applications but also make application security more manageable at scale. 
 - image: 20th_Web_Keynotes_Home_Eva-Galperin.jpeg
   name: Eva Galperin
   title: Dirctor of Cybersecurity
