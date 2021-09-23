@@ -228,16 +228,16 @@
   TalkURL: https://sched.co/m1wT
 - Talk: 
   Speakers:
-    - Name: Abraham Aranguren
+    - Name: Saurabh Nandedkar
       Email: test.test@owasp.org
-      Image: /assets/images/20th_Web_Speakers_Link_AbrahamAranguren.jpeg      
-      URL: https://owasp20thanniversaryevent20.sched.com/speaker/abraham_aranguren.22ua9sa4
+      Image: /assets/images/OWASP_20th_Anniversary.svg 
+      URL: https://owasp20thanniversaryevent20.sched.com/speaker/extremophilarum
     #- Name: 
       #Email: test.test@owasp.org
       #Image: /assets/images/OWASP_20th_Anniversary.svg      
       #URL: https://owasp20thanniversaryevent20.sched.com/
   Title: OWASP OWTF Flagship Project Leader
-  TalkURL: https://sched.co/m1wQ
+  TalkURL: https://owasp20thanniversaryevent20.sched.com/event/m1wQ
 - Talk: 
   Speakers:
     - Name: Jeremy Long
